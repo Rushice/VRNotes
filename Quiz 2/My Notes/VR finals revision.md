@@ -42,7 +42,6 @@ Unity
 - Explain the image formation process in XR HMDs
 - describe common software components in imersive applications
 - describe architecture of a typical WebXR application
-![[Pasted image 20240404072933.png]]![[Pasted image 20240404073002.png]]![[Pasted image 20240404073012.png]]![[Pasted image 20240404073247.png]]
 
 # Creating Virtual Environments
 - 3D virtual environment with skybox and geometric primitives in WebXR
