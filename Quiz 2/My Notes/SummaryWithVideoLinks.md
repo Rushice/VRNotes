@@ -106,3 +106,25 @@ Debug layer provides a UI interface to inspect and manipulate scene during runti
 Model based approach are more interactive, with physics and collision being important to the experience.
 
 Image based approach are more of a story telling medium, a walkthrough of an experience with limited intractability. 
+
+# Week 8 Interaction
+https://www.youtube.com/watch?v=dKRWH7O81yk&feature=youtu.be
+
+## Passive and active Interactions
+Passive interactions are interactions that happen without any conscious effort
+- Viewport control (passive)
+- Hand Gestures (active)
+- Body Gestures (active)
+
+### Embodiment
+Feeling like your virtual self is real, and that objects in the virtual world are real
+
+## Interaction Authenticity
+Natural - outcome is close to real
+Magical - impossible in real world
+Augmented Natural - Exaggereated natural actions
+
+# Week 9 Implementing Interaction
+https://www.youtube.com/watch?v=Z4vpPk5z5HE&feature=youtu.be
+
+shitty coding session
