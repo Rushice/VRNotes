@@ -13,13 +13,13 @@ RV Continuum, Reality-Virtuality Continuum; How Virtual the environment is
    
 E.g Strava is very close to reality but not fully reality as it has some extent of real world knowledge that is being modelled in the app (running routes)
 
-Extent of world knowledge: Virtual objects are able to interact with real world objects,
+Extent of world knowledge: Virtual objects are able to interact with real world objects
 
-Reproduction Fidelity: How real/high quality the images and models are,
+Reproduction Fidelity: How real/high quality the images and models are, trees look real
 
-Extent of Presence: How much of your senses are being emulated
+Extent of Presence: How much of your **senses** are being emulated, spatial audio
 
-Coherence: How immersive/believable the experience is,
+Coherence: How **immersive/believable** the experience is, "felt like i was there"
 
 History of VR - first VR device invented earlier that 21 Century, Oculus Rift DK1 sparked the current rise of VR.
 
